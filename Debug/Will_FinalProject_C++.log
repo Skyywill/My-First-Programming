@@ -1,0 +1,6 @@
+﻿  APP.cpp
+  IMP.cpp
+  Generating Code...
+IMP.obj : error LNK2005: "int studentNum" (?studentNum@@3HA) already defined in APP.obj
+IMP.obj : error LNK2005: "struct student * Students" (?Students@@3PAUstudent@@A) already defined in APP.obj
+C:\Users\User\source\repos\Will_FinalProject_C++\Debug\Will_FinalProject_C++.exe : fatal error LNK1169: one or more multiply defined symbols found
